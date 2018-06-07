@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-cluster",
+  "version": "1.0.0",
+  "description": "A sample app utilzing the node cluster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rejtg21/nodejs-cluster.git"
+  },
+  "author": "Rej Mediodia <rejtg21@gmail.com> ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rejtg21/nodejs-cluster/issues"
+  },
+  "homepage": "https://github.com/rejtg21/nodejs-cluster#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-env-file": "^0.1.8"
+  }
+}
